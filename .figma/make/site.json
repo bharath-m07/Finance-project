@@ -1,0 +1,10 @@
+{
+  "description": "This mobile-first fintech app streamlines financial management for admins and clients, offering dashboards, payment tracking, and detailed statements for enhanced financial oversight.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
